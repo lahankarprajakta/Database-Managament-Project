@@ -1,0 +1,4 @@
+Table RESUME
+INSERT INTO `resume` VALUES (1,'Internal Audit','Barcalys Simpson','MBA','Finance',1),
+(2,'Software Engineer','Pixel art generator','MS','CS',2),(3,'System Analyst','Hotel management system','MS','IS',3),
+(4,'Database Administrator','Health care Database ','MS','IS',4),(5,'Java Developer','MTA Project','MS','CS',5);
