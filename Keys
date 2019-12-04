@@ -1,0 +1,6 @@
+Job_seeker (Seeker_ID[PK], FirstName, LastName, Seeker_email, Seeker_Desc, Seeker_Contact, Seeker_Address)
+Job (Job_ID [PK], Job_Title, Job_Desc, Job_Location, Company_ID [FK], Job_Requirement, Job_Post_Date, Job_Due, Date)
+Company (Company_ID [PK], Company_Name, Company_Email, Company_Address, Company_Desc, Company_Type)
+Resume (Resume_ID[PK], WorkExperience, Projects, Qualification, Seeker_ID [FK])
+Application (Application_ID [PK], Seeker_ID [FK], Job_ID [FK])
+Notification (Notification_ID [PK], Title, Description, Seeker_ID [FK], Company_ID [FK], Date)
