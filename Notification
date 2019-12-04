@@ -1,0 +1,4 @@
+Table NOTIFICATION
+INSERT INTO `notification` VALUES (1,'Internal Audit','Investment Bank',1,1,'2018-11-21'),
+(2,'Software Engineer','Investment Bank',2,2,'2018-12-05'),(3,'System Analyst','IT Company',3,3,'2018-11-15'),
+(4,'Database Administrator','IT Company',4,4,'2018-12-01'),(5,'Java Developer','IT Company',5,5,'2018-12-06’);
