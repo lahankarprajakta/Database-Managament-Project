@@ -1,0 +1,3 @@
+Table APPLICATION
+INSERT INTO `application` VALUES (1,'Internal Audit',1,1),(2,'Software Engineer',2,2),
+(3,'System Analyst',3,3),(4,'Database Administrator',4,4),(5,'Java Developer',5,5);
