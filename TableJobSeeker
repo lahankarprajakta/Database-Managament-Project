@@ -1,0 +1,7 @@
+Table JOB_SEEKER
+INSERT INTO `job_seeker`
+VALUES (1,'John','Snow','KingJohn@winterfell.com','Internal Audit','9895250011','New York,USA'),
+(2,'Ojas','Rawal','ojas@tcf.com','Software Engineer','7072321100','Gujarat,India'),
+(3,'Cristano','Ronaldo','cr7@juve.com','System Analyst','8988581122','Madeira,Protugal'),
+(4,'Peter','Russels','peter@comic.edu','Database Administrator','5514548899','Ontrio,Canada'),
+(5,'Wayne','Rooney','wr10@manu.com','Java Developer','1215251100','Manchester,UK');
