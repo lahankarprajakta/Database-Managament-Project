@@ -1,0 +1,17 @@
+Table COMPANY
+INSERT INTO `company` VALUES (1,'Goldman Sachs','GoldmanSachs@mail.com','Jersey City, NJ','Investment Bank','Investment Bank'),
+(2,'JP Morgan','jpmorgan@mail.com','New York City, NY','Investment Bank','Investment Bank'),
+(3,'Microsoft','microsoft@mail.com','Redmond, WA','IT Company','IT Company'),
+(4,'Google','google@mail.com','Mountain View, CA','IT Company','IT Company'),
+(5,'Apple','apple@mail.com','Cupertino, CA','IT Company','IT Company');
+
+Output for COMPANY
+SELECT * From COMPANY;
+
+
+
+
+
+
+
+
